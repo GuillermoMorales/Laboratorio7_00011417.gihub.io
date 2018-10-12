@@ -51,6 +51,8 @@ btnCopy.onclick = (e)=>
     let msj = document.getElementById('textMsj').value;
     document.getElementById('showMsj').innerText = msj;
 }//4
+//Copia el texto y lo muestra lo que se digito en otro
+
 
 
 
