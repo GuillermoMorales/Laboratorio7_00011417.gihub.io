@@ -53,16 +53,4 @@ btnCopy.onclick = (e)=>
 }//4
 
 
-//Seleccionar multimples elementos NODELIST
-document.getElementsByClassName("success");//Recibe como parámetro el nombre de la case css de los elementos que se desean capturar. 
-document.getElementsByTagName("li")//Recibe como parámetro el nombre de la etiqueta HTML y retorna todos los elementos que cumplan la condición
-document.querySelector("li.item-nav")//Recibe como parámetro el selector CSS, retorna todos los elementos que cumplan con la condición
-
-//Seleccionar un elemento individualmente
-document.getElementById("nav-brand")//Recibe como parámetro el nombre que se le ha asignado al atributo id del elemento
-
-
-
-
-
 
